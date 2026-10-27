@@ -1,0 +1,97 @@
+/* Shared finishing rules, loaded after each page stylesheet. */
+:root{--section-gap:88px;--control-radius:6px;--motion-ease:cubic-bezier(.2,.7,.2,1)}
+main h1,main h2,main h3{overflow-wrap:anywhere}
+.header nav{font-size:12px}.header .wordmark small,footer .wordmark small{font-size:9px;letter-spacing:1.6px}
+body .eyebrow{font-size:10px;line-height:1.7;letter-spacing:1.6px}
+body :is(.breadcrumb,.services-breadcrumb,.awards-breadcrumb,.contact-breadcrumb){font-size:10px;letter-spacing:1.5px}
+body .button{min-height:46px;border-radius:var(--control-radius);font-size:12px}
+body .text-link{font-size:12px;line-height:1.7}
+.hero{align-items:center}.hero-visual{width:100%;max-width:470px;justify-self:end}
+.hero .portrait-frame,.about-portrait .portrait-frame{height:auto;aspect-ratio:4/5}
+.hero .role{flex-wrap:wrap}.portrait-frame img{object-position:center 30%}
+body .hero-proof p{font-size:11px}body .hero-proof small{font-size:10px}
+.hero-bottom{margin-top:0}.hero-bottom a{width:44px;height:44px;flex-shrink:0}
+.hero-bottom>span,.visual-coordinate,.about-photo-caption,.photo-note{font-size:9px;letter-spacing:1px}
+body .project-art.managed-featured{height:auto;aspect-ratio:1.6;background:var(--panel)}
+.managed-featured img{object-fit:cover}.project-open{background:#1112148c;backdrop-filter:blur(8px)}
+.project-info{align-items:flex-start}.project-info h3{line-height:1.6;flex:1;min-width:0;font-size:15px}.project-info>span{font-size:9px;line-height:1.8;max-width:44%;text-align:right}
+body .service p,body .section-aside,body .offering-description,body .portfolio-open p{font-size:13px;line-height:1.9}
+body .service .tags span,body .philosophy-tags span{font-size:9px;line-height:1.6;letter-spacing:.4px}
+body .card-number,body .offering-number,body .offering-kicker{font-size:9px;line-height:1.7}
+body .service-home-link{font-size:12px;min-height:32px}
+body .stat>span,body .about-facts>div>span{font-size:10px;line-height:1.8;letter-spacing:.4px}
+.about-facts>div{min-width:0;padding-right:12px}.about-signature span{font-size:9px;line-height:1.7}
+.first-client-foot,.story-today>span,.approach-word{font-size:9px;line-height:1.8;letter-spacing:1px}
+.approach-card p{font-size:13px;line-height:1.9}
+.offering-bottom>div{min-width:0}.offering-bottom strong{overflow-wrap:anywhere}
+body .offering-bottom>div>span,body .offering li{font-size:10px;line-height:1.8}
+.service-enquire{width:44px;height:44px;flex-shrink:0}
+body .services-intro-foot{font-size:9px;line-height:1.8;letter-spacing:.6px;flex-wrap:wrap}
+body .pricing-note,body .placeholder-disclosure,body .awards-disclosure p{font-size:11px;line-height:1.9}
+body .filter-tabs button{font-size:12px;min-height:46px}
+body .filter-tabs button span,body .portfolio-card-meta,body .collection-caption p,body .collection-caption>span{font-size:10px;line-height:1.7}
+.collection-caption{align-items:flex-start}.collection-caption>span{text-align:right}
+body .portfolio-intro-bottom>span,body .timeline-note{font-size:9px;line-height:1.8;white-space:normal}
+body .portfolio-outro .button,body .services-closing-actions .button{white-space:normal;text-align:left}
+body .achievement-date>small,body .sample-label,body .achievement-category,body .achievement-issuer small,body .achievement-meaning>span{font-size:9px;line-height:1.8;letter-spacing:.8px}
+.achievement-meaning{grid-template-columns:115px minmax(0,1fr)}
+body .achievement-description,body .achievement-meaning p,body .achievement-issuer{font-size:12px;line-height:1.9}
+body .achievement-issuer>span{font-size:11px}
+body .contact-note,body .contact-social-area>p,body .contact-method p,body .contact-social-links small{font-size:10px;line-height:1.8}
+body .small-contact-link{font-size:12px;min-height:32px}
+body .contact-social-links :is(a,button){min-height:56px}.contact-social-links :is(a,button)>span:not(.fiverr-mark){min-width:0}
+body .contact-social-links small{overflow-wrap:anywhere}
+body .enquiry-heading>p:last-child{font-size:13px;line-height:1.9}
+body .field label{font-size:12px}.field label small{font-size:10px}
+body .field input,body .field textarea,body .field select{font-size:14px;min-height:48px;border-radius:var(--control-radius)}
+body .field-hint,body .delivery-note,body .form-submit-row>p{font-size:10px;line-height:1.8}
+.field-hint{flex-wrap:wrap}.field-hint>span:last-child{margin-left:auto}
+.field:focus-within label{color:var(--blue)}
+body .draft-result p{font-size:12px}.draft-result details{font-size:11px}.draft-result pre{font-size:12px}
+body:has(dialog[open]){overflow:hidden}
+body dialog{max-height:90dvh;overflow:auto}body .dialog-close,body .lightbox-close{width:44px;height:44px;display:grid;place-items:center;line-height:1}
+body .dialog-close{top:8px;right:8px;border-radius:50%;background:var(--panel)}
+body .quote-person small,body .slider-controls>span{font-size:10px}.quote-person p{font-size:13px}
+.slider-controls button{min-width:44px;min-height:44px}
+body .brands>.eyebrow{font-size:9px;letter-spacing:1px;text-align:center;padding:0 20px}
+.footer-top{flex-wrap:wrap;row-gap:28px}.footer-links{gap:15px 23px}body .footer-links a{font-size:12px;line-height:1.8}
+body .socials{gap:9px}.socials :is(button,a){width:40px;height:40px;flex-shrink:0}
+body .footer-bottom{font-size:10px;line-height:1.8;gap:14px;flex-wrap:wrap}
+body .footer-bottom>span:nth-child(2){font-size:9px}
+.reveal{transition-timing-function:var(--motion-ease)}
+@media(min-width:761px) and (max-width:1000px){
+ .hero h1{font-size:55px;letter-spacing:-3px}.hero{gap:30px}.floating-badge{left:-15px;top:15px;transform:rotate(-4deg);padding:10px 13px}.floating-badge>span{font-size:24px}
+ .hero-proof{flex-wrap:wrap}.service-grid,.approach-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.service-grid>.service:last-child,.approach-grid>.approach-card:last-child{grid-column:1/-1}
+ .footer-top>.wordmark{flex-basis:100%}.contact-layout{gap:25px;grid-template-columns:.9fr 1.2fr}
+ .enquiry-card .form-grid{grid-template-columns:1fr}.form-submit-row{flex-wrap:wrap}.form-submit-row>p{text-align:left}
+ .achievement{grid-template-columns:115px minmax(0,1fr);gap:25px}.achievement:before{left:107px}.achievement:after{left:103px}
+}
+@media(max-width:760px){
+ :root{--section-gap:56px}
+ body .eyebrow{font-size:9px;letter-spacing:1.1px}
+ body :is(.breadcrumb,.services-breadcrumb,.awards-breadcrumb,.contact-breadcrumb){font-size:9px;letter-spacing:1.1px}
+ .menu-toggle{min-height:44px;min-width:65px;text-align:right}
+ nav.open a{min-height:44px;display:flex;align-items:center;font-size:14px}.nav-contact{justify-content:space-between}
+ .hero-visual{max-width:420px;justify-self:center}.hero .portrait-frame,.about-portrait .portrait-frame{height:auto;aspect-ratio:4/5}
+ .hero-bottom>span,.visual-coordinate,.about-photo-caption,.photo-note{font-size:8px;letter-spacing:.6px}
+ .hero-bottom{gap:12px}.hero-bottom>span{max-width:38%}
+ body .service p,body .section-aside,body .offering-description,body .portfolio-open p,body .approach-card p{font-size:13px}
+ body .service .tags span,body .philosophy-tags span{font-size:9px}
+ .project-info{display:block}.project-info>span{display:block;margin-top:5px;max-width:none;text-align:left;font-size:10px}.project-info h3{font-size:16px}
+ body .about-facts>div>span{font-size:9px;line-height:1.8;letter-spacing:0}.about-facts{gap:25px 15px}
+ body .filter-tabs button{font-size:12px}.filter-tabs button:last-child{padding-inline:9px}
+ body .portfolio-card-meta,body .collection-caption p,body .collection-caption>span{font-size:9px;letter-spacing:.3px}
+ .achievement-meaning{display:block}.achievement-date{gap:10px;flex-wrap:wrap}.achievement-top{flex-wrap:wrap;gap:10px}
+ body .sample-label{font-size:8px}.achievement-category{letter-spacing:.5px}
+ body .contact-social-links{grid-template-columns:1fr}.contact-social-links .tiktok-profile,.contact-social-links .fiverr-profile{grid-column:auto}
+ body .field input,body .field textarea,body .field select{font-size:16px}
+ body .field-hint,body .delivery-note,body .form-submit-row>p{font-size:10px}
+ .form-submit-row>p br{display:block}
+ body .socials :is(button,a){width:44px;height:44px}body .socials svg{width:17px;height:17px}
+ .footer-top{gap:24px}.footer-links{flex-basis:100%;gap:16px 22px}.footer-links a{min-height:32px;display:flex;align-items:center}
+ .footer-bottom{padding-bottom:25px}.footer-bottom>span:first-child{max-width:72%}
+ body .button{min-height:48px}.lightbox-bottom>span{font-size:9px;line-height:1.8}
+}
+.service,.offering,.achievement-content,.portfolio-image,.enquiry-card,.first-client,.approach-card{border-radius:10px}
+.service-home-link .arrow-icon{margin-left:5px}.slider-controls button{display:inline-grid;place-items:center}.slider-controls button svg{width:16px;height:16px}
+.project-lightbox>img{object-fit:contain;background:var(--bg)}

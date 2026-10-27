@@ -1,0 +1,2 @@
+{% from 'components/icons.html' import icon %}
+{% for item in featured %}<button class="project" data-featured="{{ loop.index0 }}"><div class="project-art managed-featured"><img src="{{ media[item.media].url }}" alt="{{ media[item.media].alt }}" loading="lazy"><span class="project-open">{{ icon('arrow') }}</span></div><div class="project-info"><h3>{{ item.title }}</h3><span>{{ item.category }}</span></div></button>{% else %}<p class="collection-empty">New featured work is on the way.</p>{% endfor %}

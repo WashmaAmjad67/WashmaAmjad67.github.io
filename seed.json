@@ -1,0 +1,2592 @@
+{
+  "revision": 1,
+  "theme": "charcoal",
+  "settings": {
+    "name": "Washma Amjad",
+    "brand": "washma",
+    "email": "muskanamjad671@gmail.com",
+    "whatsapp": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": "https://www.tiktok.com/@Senu_Graphics",
+    "fiverr": "https://www.fiverr.com/senu_graphics",
+    "linkedin": "",
+    "behance": ""
+  },
+  "pages": {
+    "awards": {
+      "title": "Awards & Achievements",
+      "texts": {
+        "t001": "Awards & Achievements — Washma Amjad",
+        "t002": "Awards and achievements showcase for Washma Amjad. An illustrative timeline awaiting verified recognition and award details.",
+        "t003": "HOME ",
+        "t004": "/ AWARDS & ACHIEVEMENTS",
+        "t005": "THE MILESTONES ALONG THE WAY",
+        "t006": "Small moments.",
+        "t007": "Meaningful milestones.",
+        "t008": "A space for the recognition, progress, and creative achievements",
+        "t009": "that become part of the journey.",
+        "t010": "CRAFT · CURIOSITY · PURPOSE",
+        "t011": "EVERY STEP HAS A STORY",
+        "t012": "✦",
+        "t013": "i",
+        "t014": "A preview of what’s to come.",
+        "t015": " The awards, years, and organizers below are fictional examples for this page’s design. They do not represent awards received by Washma and will be replaced with verified achievements.",
+        "t016": "01 /",
+        "t017": " THE RECOGNITION JOURNAL",
+        "t018": "A place to celebrate",
+        "t019": "the work behind the work.",
+        "t020": "ILLUSTRATIVE TIMELINE / 04 SAMPLE ENTRIES",
+        "t021": "THE JOURNEY CONTINUES",
+        "t022": "Always learning.",
+        "t023": "Always making the next thing better.",
+        "t024": "Curiosity started my journey into design. It’s still what keeps me exploring, refining, and finding new ways to tell a story.",
+        "t025": "Read My Story ",
+        "t026": "GOOD WORK STARTS WITH AN IDEA.",
+        "t027": "Let’s make your next",
+        "t028": "milestone together.",
+        "t029": "Let’s Create Something ",
+        "t030": "Explore the Portfolio "
+      },
+      "fields": [
+        {
+          "id": "t001",
+          "label": "Browser page title",
+          "section": "Page settings"
+        },
+        {
+          "id": "t002",
+          "label": "Search description",
+          "section": "Page settings"
+        },
+        {
+          "id": "t003",
+          "label": "Link label · HOME",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t004",
+          "label": "Text · / AWARDS & ACHIEVEMENTS",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t005",
+          "label": "Text · THE MILESTONES ALONG THE WAY",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t006",
+          "label": "Main heading · Small moments.",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t007",
+          "label": "Text · Meaningful milestones.",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t008",
+          "label": "Paragraph · A space for the recognition, progress, and creative achievements",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t009",
+          "label": "Paragraph · that become part of the journey.",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t010",
+          "label": "Text · CRAFT · CURIOSITY · PURPOSE",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t011",
+          "label": "Text · EVERY STEP HAS A STORY",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t012",
+          "label": "Text · ✦",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t013",
+          "label": "Text · i",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t014",
+          "label": "Text · A preview of what’s to come.",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t015",
+          "label": "Paragraph · The awards, years, and organizers below are fictional examples fo",
+          "section": "Small moments. Meaningful milestones."
+        },
+        {
+          "id": "t016",
+          "label": "Text · 01 /",
+          "section": "A place to celebrate the work behind the work."
+        },
+        {
+          "id": "t017",
+          "label": "Paragraph · THE RECOGNITION JOURNAL",
+          "section": "A place to celebrate the work behind the work."
+        },
+        {
+          "id": "t018",
+          "label": "Section heading · A place to celebrate",
+          "section": "A place to celebrate the work behind the work."
+        },
+        {
+          "id": "t019",
+          "label": "Text · the work behind the work.",
+          "section": "A place to celebrate the work behind the work."
+        },
+        {
+          "id": "t020",
+          "label": "Paragraph · ILLUSTRATIVE TIMELINE / 04 SAMPLE ENTRIES",
+          "section": "A place to celebrate the work behind the work."
+        },
+        {
+          "id": "t021",
+          "label": "Text · THE JOURNEY CONTINUES",
+          "section": "Always learning. Always making the next thing better."
+        },
+        {
+          "id": "t022",
+          "label": "Section heading · Always learning.",
+          "section": "Always learning. Always making the next thing better."
+        },
+        {
+          "id": "t023",
+          "label": "Text · Always making the next thing better.",
+          "section": "Always learning. Always making the next thing better."
+        },
+        {
+          "id": "t024",
+          "label": "Paragraph · Curiosity started my journey into design. It’s still what keeps m",
+          "section": "Always learning. Always making the next thing better."
+        },
+        {
+          "id": "t025",
+          "label": "Link label · Read My Story",
+          "section": "Always learning. Always making the next thing better."
+        },
+        {
+          "id": "t026",
+          "label": "Paragraph · GOOD WORK STARTS WITH AN IDEA.",
+          "section": "Let’s make your next milestone together."
+        },
+        {
+          "id": "t027",
+          "label": "Section heading · Let’s make your next",
+          "section": "Let’s make your next milestone together."
+        },
+        {
+          "id": "t028",
+          "label": "Text · milestone together.",
+          "section": "Let’s make your next milestone together."
+        },
+        {
+          "id": "t029",
+          "label": "Link label · Let’s Create Something",
+          "section": "Let’s make your next milestone together."
+        },
+        {
+          "id": "t030",
+          "label": "Link label · Explore the Portfolio",
+          "section": "Let’s make your next milestone together."
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "texts": {
+        "t001": "Portfolio — Washma Amjad",
+        "t002": "Explore Washma Amjad’s video editing portfolio: YouTube long-form, short-form reels, color grading and sound design concepts.",
+        "t003": "HOME ",
+        "t004": "/",
+        "t005": "THE PORTFOLIO",
+        "t006": " / STORIES IN MOTION",
+        "t007": "Every frame.",
+        "t008": "A little more feeling.",
+        "t009": "✦",
+        "t010": "Thoughtful edits. Intentional details.",
+        "t011": "Stories that stay with you.",
+        "t012": "A collection of visual explorations, from the first cut to the final color.",
+        "t013": "Find a style, explore a story, and imagine what we could create together.",
+        "t014": "12 CONCEPTS ",
+        "t015": " 03 DISCIPLINES",
+        "t016": "YouTube Long-Form ",
+        "t018": "Short-Form Reels ",
+        "t020": "Color Grading & Sound Design ",
+        "t022": "THE LONGER STORY",
+        "t023": "04 projects / YouTube Long-Form",
+        "t024": "A creative preview: all thumbnails and projects shown are illustrative placeholders, ready for real work.",
+        "t025": "YOUR STORY, NEXT.",
+        "t026": "Something in mind?",
+        "t027": "Let’s make it memorable.",
+        "t028": "Let’s Talk About Your Project "
+      },
+      "fields": [
+        {
+          "id": "t001",
+          "label": "Browser page title",
+          "section": "Page settings"
+        },
+        {
+          "id": "t002",
+          "label": "Search description",
+          "section": "Page settings"
+        },
+        {
+          "id": "t003",
+          "label": "Link label · HOME",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t004",
+          "label": "Text · /",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t005",
+          "label": "Text · THE PORTFOLIO",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t006",
+          "label": "Paragraph · / STORIES IN MOTION",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t007",
+          "label": "Main heading · Every frame.",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t008",
+          "label": "Text · A little more feeling.",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t009",
+          "label": "Text · ✦",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t010",
+          "label": "Paragraph · Thoughtful edits. Intentional details.",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t011",
+          "label": "Paragraph · Stories that stay with you.",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t012",
+          "label": "Paragraph · A collection of visual explorations, from the first cut to the fi",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t013",
+          "label": "Paragraph · Find a style, explore a story, and imagine what we could create t",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t014",
+          "label": "Text · 12 CONCEPTS",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t015",
+          "label": "Text · 03 DISCIPLINES",
+          "section": "Every frame. A little more feeling."
+        },
+        {
+          "id": "t016",
+          "label": "Button · YouTube Long-Form",
+          "section": "Page content"
+        },
+        {
+          "id": "t018",
+          "label": "Button · Short-Form Reels",
+          "section": "Page content"
+        },
+        {
+          "id": "t020",
+          "label": "Button · Color Grading & Sound Design",
+          "section": "Page content"
+        },
+        {
+          "id": "t022",
+          "label": "Paragraph · THE LONGER STORY",
+          "section": "Page content"
+        },
+        {
+          "id": "t023",
+          "label": "Text · 04 projects / YouTube Long-Form",
+          "section": "Page content"
+        },
+        {
+          "id": "t024",
+          "label": "Paragraph · A creative preview: all thumbnails and projects shown are illustr",
+          "section": "Page content"
+        },
+        {
+          "id": "t025",
+          "label": "Text · YOUR STORY, NEXT.",
+          "section": "Something in mind? Let’s make it memorable."
+        },
+        {
+          "id": "t026",
+          "label": "Section heading · Something in mind?",
+          "section": "Something in mind? Let’s make it memorable."
+        },
+        {
+          "id": "t027",
+          "label": "Text · Let’s make it memorable.",
+          "section": "Something in mind? Let’s make it memorable."
+        },
+        {
+          "id": "t028",
+          "label": "Link label · Let’s Talk About Your Project",
+          "section": "Something in mind? Let’s make it memorable."
+        }
+      ]
+    },
+    "about": {
+      "title": "About",
+      "texts": {
+        "t001": "About — Washma Amjad",
+        "t002": "Meet Washma Amjad. Discover how a hobby in graphic design became a full-time creative career built around storytelling, editing, and color.",
+        "t003": "HOME ",
+        "t004": "/ ABOUT",
+        "t005": "THE PERSON BEHIND THE PIXELS",
+        "t006": "A curious mind.",
+        "t007": "A love for",
+        "t008": "telling stories.",
+        "t009": "I’m Washma Amjad, a graphic designer and web developer who believes every design has a story worth telling.",
+        "t010": "Two years ago, I started exploring design for myself. Today, I turn raw ideas into visual stories with intention, emotion, and a reason to keep watching.",
+        "t011": "Get to Know Me ",
+        "t012": "↓",
+        "t013": "Washma Amjad",
+        "t014": "DESIGNER. STORYTELLER. ALWAYS LEARNING.",
+        "t015": "A LITTLE CURIOSITY GOES A LONG WAY.",
+        "t016": "Design is how",
+        "t017": "I tell my story.",
+        "t018": "PLACEHOLDER PORTRAIT",
+        "t019": "01 / A FACE BEHIND THE WORK",
+        "t020": "2",
+        "t021": "+",
+        "t022": "YEARS OF CREATIVE EXPLORATION",
+        "t023": "50",
+        "t024": "+",
+        "t025": "HAPPY CLIENTS & COUNTING",
+        "t026": "4.9",
+        "t027": "/5",
+        "t028": "AVERAGE CLIENT RATING",
+        "t029": "Built on curiosity.",
+        "t030": "Driven by purpose.",
+        "t031": "01 /",
+        "t032": " HOW IT ALL BEGAN",
+        "t033": "From a small hobby",
+        "t034": "to ",
+        "t035": "something bigger.",
+        "t036": "There wasn’t a grand plan at the beginning.",
+        "t037": "Just a desire to understand why good design works.",
+        "t038": "I started graphic design two years ago as a hobby, helping myself understand the logic behind a design — the choices that make it feel balanced, clear, and meaningful.",
+        "t039": "The more I explored, the more I fell in love with the process. Through editing, design, and color grading, I discovered how small creative decisions could change the way a story feels.",
+        "t040": "THE MOMENT IT BECAME REAL",
+        "t041": "One design.",
+        "t042": "My first paid opportunity.",
+        "t043": "My first client saw a design they liked and asked me to recreate it. That was the first time I was paid for my work — and the moment my career began.",
+        "t044": "A SMALL BEGINNING. A BIG TURNING POINT.",
+        "t045": "AND THEN, I KEPT GOING.",
+        "t046": "What began as something I did for myself grew into a full-time creative career. That same curiosity still shapes my work: I keep exploring, refining, and looking for the story inside every idea.",
+        "t047": "02 /",
+        "t048": " THE WAY I SEE IT",
+        "t049": "Good design catches the eye.",
+        "t050": "A good story",
+        "t051": "keeps you watching.",
+        "t052": "I see tools as a starting point. The real work is in shaping an idea into a storytelling art piece — using composition, editing, and color to create a feeling and hold the viewer’s attention.",
+        "t053": "STORY FIRST",
+        "t054": "INTENTIONAL DETAILS",
+        "t055": "EMOTION THROUGH COLOR",
+        "t056": "03 /",
+        "t057": " WHAT THAT MEANS FOR YOUR WORK",
+        "t058": "A little structure.",
+        "t059": "A lot more soul.",
+        "t060": "An approach shaped by curiosity,",
+        "t061": "and focused on your story.",
+        "t062": "01",
+        "t063": "Find the story.",
+        "t064": "Start with the message, the audience, and what you want them to feel. Give every creative choice a purpose.",
+        "t065": "UNDERSTAND",
+        "t066": "02",
+        "t067": "Bring it into focus.",
+        "t068": "Turn scattered ideas and unorganized designs into a clear visual direction, with rhythm, hierarchy, and intention.",
+        "t069": "SHAPE",
+        "t070": "03",
+        "t071": "Make it feel complete.",
+        "t072": "Refine the edit, the details, and the color until everything works together as one polished, memorable piece.",
+        "t073": "REFINE",
+        "t074": "04 /",
+        "t075": " MY MISSION",
+        "t076": "Turn the unorganized",
+        "t077": "into the ",
+        "t078": "unforgettable.",
+        "t079": "My mission is to help creators and brands turn raw, unorganized designs into polished visual stories that connect with people and help grow their audience.",
+        "t080": "Explore My Portfolio ",
+        "t081": "YOUR IDEAS. OUR NEXT CHAPTER.",
+        "t082": "Let’s give your story",
+        "t083": "a little more feeling.",
+        "t084": "Let’s Create Together "
+      },
+      "fields": [
+        {
+          "id": "t001",
+          "label": "Browser page title",
+          "section": "Page settings"
+        },
+        {
+          "id": "t002",
+          "label": "Search description",
+          "section": "Page settings"
+        },
+        {
+          "id": "t003",
+          "label": "Link label · HOME",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t004",
+          "label": "Text · / ABOUT",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t005",
+          "label": "Text · THE PERSON BEHIND THE PIXELS",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t006",
+          "label": "Main heading · A curious mind.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t007",
+          "label": "Main heading · A love for",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t008",
+          "label": "Text · telling stories.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t009",
+          "label": "Paragraph · I’m Washma Amjad, a graphic designer and web developer who believ",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t010",
+          "label": "Paragraph · Two years ago, I started exploring design for myself. Today, I tu",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t011",
+          "label": "Link label · Get to Know Me",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t012",
+          "label": "Text · ↓",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t013",
+          "label": "Text · Washma Amjad",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t014",
+          "label": "Text · DESIGNER. STORYTELLER. ALWAYS LEARNING.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t015",
+          "label": "Text · A LITTLE CURIOSITY GOES A LONG WAY.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t016",
+          "label": "Text · Design is how",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t017",
+          "label": "Text · I tell my story.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t018",
+          "label": "Text · PLACEHOLDER PORTRAIT",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t019",
+          "label": "Text · 01 / A FACE BEHIND THE WORK",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t020",
+          "label": "Text · 2",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t021",
+          "label": "Text · +",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t022",
+          "label": "Text · YEARS OF CREATIVE EXPLORATION",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t023",
+          "label": "Text · 50",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t024",
+          "label": "Text · +",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t025",
+          "label": "Text · HAPPY CLIENTS & COUNTING",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t026",
+          "label": "Text · 4.9",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t027",
+          "label": "Small text · /5",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t028",
+          "label": "Text · AVERAGE CLIENT RATING",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t029",
+          "label": "Paragraph · Built on curiosity.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t030",
+          "label": "Text · Driven by purpose.",
+          "section": "A curious mind. A love for telling stories."
+        },
+        {
+          "id": "t031",
+          "label": "Text · 01 /",
+          "section": "From a small hobby to something bigger."
+        },
+        {
+          "id": "t032",
+          "label": "Paragraph · HOW IT ALL BEGAN",
+          "section": "From a small hobby to something bigger."
+        },
+        {
+          "id": "t033",
+          "label": "Section heading · From a small hobby",
+          "section": "From a small hobby to something bigger."
+        },
+        {
+          "id": "t034",
+          "label": "Section heading · to",
+          "section": "From a small hobby to something bigger."
+        },
+        {
+          "id": "t035",
+          "label": "Text · something bigger.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t036",
+          "label": "Paragraph · There wasn’t a grand plan at the beginning.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t037",
+          "label": "Paragraph · Just a desire to understand why good design works.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t038",
+          "label": "Paragraph · I started graphic design two years ago as a hobby, helping myself",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t039",
+          "label": "Paragraph · The more I explored, the more I fell in love with the process. Th",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t040",
+          "label": "Paragraph · THE MOMENT IT BECAME REAL",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t041",
+          "label": "Card heading · One design.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t042",
+          "label": "Card heading · My first paid opportunity.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t043",
+          "label": "Paragraph · My first client saw a design they liked and asked me to recreate ",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t044",
+          "label": "Text · A SMALL BEGINNING. A BIG TURNING POINT.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t045",
+          "label": "Text · AND THEN, I KEPT GOING.",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t046",
+          "label": "Paragraph · What began as something I did for myself grew into a full-time cr",
+          "section": "From a small hobby to  something bigger."
+        },
+        {
+          "id": "t047",
+          "label": "Text · 02 /",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t048",
+          "label": "Paragraph · THE WAY I SEE IT",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t049",
+          "label": "Section heading · Good design catches the eye.",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t050",
+          "label": "Text · A good story",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t051",
+          "label": "Text · keeps you watching.",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t052",
+          "label": "Paragraph · I see tools as a starting point. The real work is in shaping an i",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t053",
+          "label": "Text · STORY FIRST",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t054",
+          "label": "Text · INTENTIONAL DETAILS",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t055",
+          "label": "Text · EMOTION THROUGH COLOR",
+          "section": "Good design catches the eye. A good story keeps you watching."
+        },
+        {
+          "id": "t056",
+          "label": "Text · 03 /",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t057",
+          "label": "Paragraph · WHAT THAT MEANS FOR YOUR WORK",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t058",
+          "label": "Section heading · A little structure.",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t059",
+          "label": "Text · A lot more soul.",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t060",
+          "label": "Paragraph · An approach shaped by curiosity,",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t061",
+          "label": "Paragraph · and focused on your story.",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t062",
+          "label": "Text · 01",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t063",
+          "label": "Card heading · Find the story.",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t064",
+          "label": "Paragraph · Start with the message, the audience, and what you want them to f",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t065",
+          "label": "Text · UNDERSTAND",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t066",
+          "label": "Text · 02",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t067",
+          "label": "Card heading · Bring it into focus.",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t068",
+          "label": "Paragraph · Turn scattered ideas and unorganized designs into a clear visual ",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t069",
+          "label": "Text · SHAPE",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t070",
+          "label": "Text · 03",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t071",
+          "label": "Card heading · Make it feel complete.",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t072",
+          "label": "Paragraph · Refine the edit, the details, and the color until everything work",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t073",
+          "label": "Text · REFINE",
+          "section": "A little structure. A lot more soul."
+        },
+        {
+          "id": "t074",
+          "label": "Text · 04 /",
+          "section": "Turn the unorganized into the unforgettable."
+        },
+        {
+          "id": "t075",
+          "label": "Paragraph · MY MISSION",
+          "section": "Turn the unorganized into the unforgettable."
+        },
+        {
+          "id": "t076",
+          "label": "Section heading · Turn the unorganized",
+          "section": "Turn the unorganized into the unforgettable."
+        },
+        {
+          "id": "t077",
+          "label": "Section heading · into the",
+          "section": "Turn the unorganized into the unforgettable."
+        },
+        {
+          "id": "t078",
+          "label": "Text · unforgettable.",
+          "section": "Turn the unorganized into the  unforgettable."
+        },
+        {
+          "id": "t079",
+          "label": "Paragraph · My mission is to help creators and brands turn raw, unorganized d",
+          "section": "Turn the unorganized into the  unforgettable."
+        },
+        {
+          "id": "t080",
+          "label": "Link label · Explore My Portfolio",
+          "section": "Turn the unorganized into the  unforgettable."
+        },
+        {
+          "id": "t081",
+          "label": "Paragraph · YOUR IDEAS. OUR NEXT CHAPTER.",
+          "section": "Let’s give your story a little more feeling."
+        },
+        {
+          "id": "t082",
+          "label": "Section heading · Let’s give your story",
+          "section": "Let’s give your story a little more feeling."
+        },
+        {
+          "id": "t083",
+          "label": "Text · a little more feeling.",
+          "section": "Let’s give your story a little more feeling."
+        },
+        {
+          "id": "t084",
+          "label": "Link label · Let’s Create Together",
+          "section": "Let’s give your story a little more feeling."
+        }
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "texts": {
+        "t001": "Services — Washma Amjad",
+        "t002": "Graphic design and web development services by Washma Amjad: brand identity, social graphics, custom websites, and website redesigns.",
+        "t003": "HOME ",
+        "t004": "/ SERVICES",
+        "t005": "DESIGN MEETS DEVELOPMENT",
+        "t006": "Big ideas.",
+        "t007": "Beautifully made.",
+        "t008": "A brand that feels like you. A website that brings it to life.",
+        "t009": "Thoughtful creative services, from the first spark to the final detail.",
+        "t010": "Find Your Next Creative Step ",
+        "t011": "↓",
+        "t012": "THE CREATIVE DIRECTION",
+        "t013": "Aa",
+        "t014": "✦",
+        "t015": "CHARACTER. CLARITY. CONNECTION.",
+        "t016": "made with intention",
+        "t017": "DESIGN / DEVELOP / REFINE",
+        "t018": "Good design.",
+        "t019": "Real feeling.",
+        "t020": "BRING IT TO LIFE ",
+        "t021": "</>",
+        "t022": "ONE VISION. EVERY DETAIL CONNECTED.",
+        "t023": "04 SERVICES / ENDLESS POSSIBILITIES",
+        "t024": " AVAILABLE FOR SELECT PROJECTS",
+        "t025": "01 /",
+        "t026": " HOW I CAN HELP",
+        "t027": "Your vision.",
+        "t028": "The right creative partner.",
+        "t029": "Choose a starting point.",
+        "t030": "We’ll shape the details around your project.",
+        "t031": "Every project has its own shape. Pricing is quoted individually based on scope, deliverables, and complexity.",
+        "t032": "02 /",
+        "t033": " A THOUGHTFUL WAY TO WORK",
+        "t034": "Clear steps.",
+        "t035": "A shared vision.",
+        "t036": "01",
+        "t037": "Tell me what’s on your mind.",
+        "t038": "Share your ideas, goals, and the kind of project you’re planning.",
+        "t039": "02",
+        "t040": "Let’s shape the direction.",
+        "t041": "Define the scope, deliverables, and a custom quote before the work begins.",
+        "t042": "03",
+        "t043": "Bring it to life, together.",
+        "t044": "Turn the direction into thoughtful design, refine the details, and prepare the final work.",
+        "t045": "YOUR NEXT CHAPTER STARTS HERE",
+        "t046": "Let’s make something",
+        "t047": "worth remembering.",
+        "t048": "Have a clear brief or just the beginning of an idea?",
+        "t049": "There’s a creative starting point for both.",
+        "t050": "Let’s Discuss Your Project ",
+        "t051": "Explore the Portfolio "
+      },
+      "fields": [
+        {
+          "id": "t001",
+          "label": "Browser page title",
+          "section": "Page settings"
+        },
+        {
+          "id": "t002",
+          "label": "Search description",
+          "section": "Page settings"
+        },
+        {
+          "id": "t003",
+          "label": "Link label · HOME",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t004",
+          "label": "Text · / SERVICES",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t005",
+          "label": "Text · DESIGN MEETS DEVELOPMENT",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t006",
+          "label": "Main heading · Big ideas.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t007",
+          "label": "Text · Beautifully made.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t008",
+          "label": "Paragraph · A brand that feels like you. A website that brings it to life.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t009",
+          "label": "Paragraph · Thoughtful creative services, from the first spark to the final d",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t010",
+          "label": "Link label · Find Your Next Creative Step",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t011",
+          "label": "Text · ↓",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t012",
+          "label": "Text · THE CREATIVE DIRECTION",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t013",
+          "label": "Text · Aa",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t014",
+          "label": "Text · ✦",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t015",
+          "label": "Small text · CHARACTER. CLARITY. CONNECTION.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t016",
+          "label": "Text · made with intention",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t017",
+          "label": "Small text · DESIGN / DEVELOP / REFINE",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t018",
+          "label": "Text · Good design.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t019",
+          "label": "Text · Real feeling.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t020",
+          "label": "Text · BRING IT TO LIFE",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t021",
+          "label": "Text · </>",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t022",
+          "label": "Text · ONE VISION. EVERY DETAIL CONNECTED.",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t023",
+          "label": "Text · 04 SERVICES / ENDLESS POSSIBILITIES",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t024",
+          "label": "Text · AVAILABLE FOR SELECT PROJECTS",
+          "section": "Big ideas. Beautifully made."
+        },
+        {
+          "id": "t025",
+          "label": "Text · 01 /",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t026",
+          "label": "Paragraph · HOW I CAN HELP",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t027",
+          "label": "Section heading · Your vision.",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t028",
+          "label": "Text · The right creative partner.",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t029",
+          "label": "Paragraph · Choose a starting point.",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t030",
+          "label": "Paragraph · We’ll shape the details around your project.",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t031",
+          "label": "Paragraph · Every project has its own shape. Pricing is quoted individually b",
+          "section": "Your vision. The right creative partner."
+        },
+        {
+          "id": "t032",
+          "label": "Text · 02 /",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t033",
+          "label": "Paragraph · A THOUGHTFUL WAY TO WORK",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t034",
+          "label": "Section heading · Clear steps.",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t035",
+          "label": "Text · A shared vision.",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t036",
+          "label": "Text · 01",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t037",
+          "label": "Card heading · Tell me what’s on your mind.",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t038",
+          "label": "Paragraph · Share your ideas, goals, and the kind of project you’re planning.",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t039",
+          "label": "Text · 02",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t040",
+          "label": "Card heading · Let’s shape the direction.",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t041",
+          "label": "Paragraph · Define the scope, deliverables, and a custom quote before the wor",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t042",
+          "label": "Text · 03",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t043",
+          "label": "Card heading · Bring it to life, together.",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t044",
+          "label": "Paragraph · Turn the direction into thoughtful design, refine the details, an",
+          "section": "Clear steps. A shared vision."
+        },
+        {
+          "id": "t045",
+          "label": "Text · YOUR NEXT CHAPTER STARTS HERE",
+          "section": "Let’s make something worth remembering."
+        },
+        {
+          "id": "t046",
+          "label": "Section heading · Let’s make something",
+          "section": "Let’s make something worth remembering."
+        },
+        {
+          "id": "t047",
+          "label": "Text · worth remembering.",
+          "section": "Let’s make something worth remembering."
+        },
+        {
+          "id": "t048",
+          "label": "Paragraph · Have a clear brief or just the beginning of an idea?",
+          "section": "Let’s make something worth remembering."
+        },
+        {
+          "id": "t049",
+          "label": "Paragraph · There’s a creative starting point for both.",
+          "section": "Let’s make something worth remembering."
+        },
+        {
+          "id": "t050",
+          "label": "Link label · Let’s Discuss Your Project",
+          "section": "Let’s make something worth remembering."
+        },
+        {
+          "id": "t051",
+          "label": "Link label · Explore the Portfolio",
+          "section": "Let’s make something worth remembering."
+        }
+      ]
+    },
+    "home": {
+      "title": "Home",
+      "texts": {
+        "t001": "Washma Amjad — Design with intention.",
+        "t002": "Washma Amjad — graphic designer and web developer. Thoughtful identities and expressive digital experiences.",
+        "t003": " AVAILABLE FOR SELECT PROJECTS",
+        "t004": "A little strategy. A lot of soul.",
+        "t005": "Hi, I’m ",
+        "t006": "Washma",
+        "t007": "Amjad",
+        "t008": ".",
+        "t009": "Graphic designer",
+        "t010": "Web developer",
+        "t011": "I turn big ideas into bold identities and digital experiences. Thoughtfully designed. Beautifully built. Unmistakably you.",
+        "t012": "View My Work ",
+        "t013": "Let’s create something ",
+        "t014": "AK",
+        "t015": "SR",
+        "t016": "JM",
+        "t017": "Good people. Great collaborations.",
+        "t018": "★★★★★",
+        "t019": " 4.9/5 · 50+ happy clients",
+        "t020": "CREATIVITY, WITH PURPOSE.",
+        "t021": "Made to leave",
+        "t022": "an impression",
+        "t023": "PLACEHOLDER PORTRAIT",
+        "t024": "✦",
+        "t025": "Thoughtful design.",
+        "t026": "Real impact.",
+        "t027": "BASED IN CREATIVITY · AVAILABLE WORLDWIDE",
+        "t028": "SCROLL TO EXPLORE",
+        "t029": "↓",
+        "t030": "PORTFOLIO / 2026",
+        "t031": "2",
+        "t032": "+",
+        "t033": "Years of creative experience",
+        "t034": "50",
+        "t035": "+",
+        "t036": "Happy clients & counting",
+        "t037": "4.9",
+        "t038": "/5",
+        "t039": "Average client rating",
+        "t040": "Small details.",
+        "t041": "Lasting impressions.",
+        "t042": "01 /",
+        "t043": " WHAT I BRING TO THE TABLE",
+        "t044": "Creative thinking.",
+        "t045": "Exceptional execution.",
+        "t046": "From the first spark to the final pixel,",
+        "t047": "I help your brand find its own voice.",
+        "t065": "02 /",
+        "t066": " SELECTED EXPLORATIONS",
+        "t067": "A few things",
+        "t068": "I’d love to make for you.",
+        "t069": "A glimpse into my creative world.",
+        "t070": "Sample concepts, endless possibilities.",
+        "t071": "A little imagination goes a long way.",
+        "t072": "View Full Portfolio ",
+        "t073": "Explore edits, stories, and cinematic details.",
+        "t074": "03 /",
+        "t075": " KIND WORDS",
+        "t076": "Good work starts",
+        "t077": "with good connections.",
+        "t078": "Illustrative testimonials below.",
+        "t079": "Real client stories will be added here.",
+        "t080": "★★★★★",
+        "t081": "“Washma has an incredible eye for detail. She took our scattered ideas and turned them into a brand that felt completely us.”",
+        "t082": "AK",
+        "t083": "Ayesha K.",
+        "t084": "Brand identity · sample testimonial",
+        "t085": "“",
+        "t086": "★★★★★",
+        "t087": "“From the first conversation to the final website, everything felt considered. Beautiful design and such a smooth experience.”",
+        "t088": "SR",
+        "t089": "Sarah R.",
+        "t090": "Website project · sample testimonial",
+        "t091": "“",
+        "t092": "★★★★★",
+        "t093": "“Creative, thoughtful, and a pleasure to work with. The designs gave our launch exactly the personality it was missing.”",
+        "t094": "JM",
+        "t095": "James M.",
+        "t096": "Graphic design · sample testimonial",
+        "t097": "“",
+        "t098": "01 / 03",
+        "t099": "←",
+        "t100": "Ⅱ",
+        "t101": "→",
+        "t102": "A FEW BRANDS IN MY CREATIVE UNIVERSE ",
+        "t103": " / ILLUSTRATIVE NAMES",
+        "t104": "ōlea",
+        "t105": "orbit®",
+        "t106": "FORM & FEELING",
+        "t107": "VOLTA",
+        "t108": "northstar ✦",
+        "t109": "studio / lune",
+        "t110": "ōlea",
+        "t111": "orbit®",
+        "t112": "FORM & FEELING",
+        "t113": "VOLTA",
+        "t114": "northstar ✦",
+        "t115": "studio / lune",
+        "t116": "04 /",
+        "t117": " YOUR NEXT BIG THING STARTS HERE",
+        "t118": "Have a vision?",
+        "t119": "Let’s make it ",
+        "t120": "real.",
+        "t121": "A brand to launch. A website to build.",
+        "t122": "Something extraordinary to create together.",
+        "t123": "Let’s Start a Conversation ",
+        "t124": "Have a project in mind? Reach me at ",
+        "t125": "."
+      },
+      "fields": [
+        {
+          "id": "t001",
+          "label": "Browser page title",
+          "section": "Page settings"
+        },
+        {
+          "id": "t002",
+          "label": "Search description",
+          "section": "Page settings"
+        },
+        {
+          "id": "t003",
+          "label": "Text · AVAILABLE FOR SELECT PROJECTS",
+          "section": "Hi, I’m Washma Amjad ."
+        },
+        {
+          "id": "t004",
+          "label": "Paragraph · A little strategy. A lot of soul.",
+          "section": "Hi, I’m Washma Amjad ."
+        },
+        {
+          "id": "t005",
+          "label": "Main heading · Hi, I’m",
+          "section": "Hi, I’m Washma Amjad ."
+        },
+        {
+          "id": "t006",
+          "label": "Text · Washma",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t007",
+          "label": "Main heading · Amjad",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t008",
+          "label": "Text · .",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t009",
+          "label": "Text · Graphic designer",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t010",
+          "label": "Text · Web developer",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t011",
+          "label": "Paragraph · I turn big ideas into bold identities and digital experiences. Th",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t012",
+          "label": "Link label · View My Work",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t013",
+          "label": "Link label · Let’s create something",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t014",
+          "label": "Text · AK",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t015",
+          "label": "Text · SR",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t016",
+          "label": "Text · JM",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t017",
+          "label": "Text · Good people. Great collaborations.",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t018",
+          "label": "Text · ★★★★★",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t019",
+          "label": "Small text · 4.9/5 · 50+ happy clients",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t020",
+          "label": "Text · CREATIVITY, WITH PURPOSE.",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t021",
+          "label": "Text · Made to leave",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t022",
+          "label": "Text · an impression",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t023",
+          "label": "Text · PLACEHOLDER PORTRAIT",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t024",
+          "label": "Text · ✦",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t025",
+          "label": "Paragraph · Thoughtful design.",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t026",
+          "label": "Text · Real impact.",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t027",
+          "label": "Text · BASED IN CREATIVITY · AVAILABLE WORLDWIDE",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t028",
+          "label": "Text · SCROLL TO EXPLORE",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t029",
+          "label": "Link label · ↓",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t030",
+          "label": "Text · PORTFOLIO / 2026",
+          "section": "Hi, I’m  Washma Amjad ."
+        },
+        {
+          "id": "t031",
+          "label": "Text · 2",
+          "section": "Page content"
+        },
+        {
+          "id": "t032",
+          "label": "Text · +",
+          "section": "Page content"
+        },
+        {
+          "id": "t033",
+          "label": "Text · Years of creative experience",
+          "section": "Page content"
+        },
+        {
+          "id": "t034",
+          "label": "Text · 50",
+          "section": "Page content"
+        },
+        {
+          "id": "t035",
+          "label": "Text · +",
+          "section": "Page content"
+        },
+        {
+          "id": "t036",
+          "label": "Text · Happy clients & counting",
+          "section": "Page content"
+        },
+        {
+          "id": "t037",
+          "label": "Text · 4.9",
+          "section": "Page content"
+        },
+        {
+          "id": "t038",
+          "label": "Small text · /5",
+          "section": "Page content"
+        },
+        {
+          "id": "t039",
+          "label": "Text · Average client rating",
+          "section": "Page content"
+        },
+        {
+          "id": "t040",
+          "label": "Paragraph · Small details.",
+          "section": "Page content"
+        },
+        {
+          "id": "t041",
+          "label": "Paragraph · Lasting impressions.",
+          "section": "Page content"
+        },
+        {
+          "id": "t042",
+          "label": "Text · 01 /",
+          "section": "Creative thinking. Exceptional execution."
+        },
+        {
+          "id": "t043",
+          "label": "Paragraph · WHAT I BRING TO THE TABLE",
+          "section": "Creative thinking. Exceptional execution."
+        },
+        {
+          "id": "t044",
+          "label": "Section heading · Creative thinking.",
+          "section": "Creative thinking. Exceptional execution."
+        },
+        {
+          "id": "t045",
+          "label": "Text · Exceptional execution.",
+          "section": "Creative thinking. Exceptional execution."
+        },
+        {
+          "id": "t046",
+          "label": "Paragraph · From the first spark to the final pixel,",
+          "section": "Creative thinking. Exceptional execution."
+        },
+        {
+          "id": "t047",
+          "label": "Paragraph · I help your brand find its own voice.",
+          "section": "Creative thinking. Exceptional execution."
+        },
+        {
+          "id": "t065",
+          "label": "Text · 02 /",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t066",
+          "label": "Paragraph · SELECTED EXPLORATIONS",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t067",
+          "label": "Section heading · A few things",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t068",
+          "label": "Text · I’d love to make for you.",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t069",
+          "label": "Paragraph · A glimpse into my creative world.",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t070",
+          "label": "Paragraph · Sample concepts, endless possibilities.",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t071",
+          "label": "Paragraph · A little imagination goes a long way.",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t072",
+          "label": "Link label · View Full Portfolio",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t073",
+          "label": "Paragraph · Explore edits, stories, and cinematic details.",
+          "section": "A few things I’d love to make for you."
+        },
+        {
+          "id": "t074",
+          "label": "Text · 03 /",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t075",
+          "label": "Paragraph · KIND WORDS",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t076",
+          "label": "Section heading · Good work starts",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t077",
+          "label": "Text · with good connections.",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t078",
+          "label": "Paragraph · Illustrative testimonials below.",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t079",
+          "label": "Paragraph · Real client stories will be added here.",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t080",
+          "label": "Text · ★★★★★",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t081",
+          "label": "Text · “Washma has an incredible eye for detail. She took our scattered ",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t082",
+          "label": "Text · AK",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t083",
+          "label": "Paragraph · Ayesha K.",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t084",
+          "label": "Small text · Brand identity · sample testimonial",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t085",
+          "label": "Text · “",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t086",
+          "label": "Text · ★★★★★",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t087",
+          "label": "Text · “From the first conversation to the final website, everything fel",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t088",
+          "label": "Text · SR",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t089",
+          "label": "Paragraph · Sarah R.",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t090",
+          "label": "Small text · Website project · sample testimonial",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t091",
+          "label": "Text · “",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t092",
+          "label": "Text · ★★★★★",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t093",
+          "label": "Text · “Creative, thoughtful, and a pleasure to work with. The designs g",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t094",
+          "label": "Text · JM",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t095",
+          "label": "Paragraph · James M.",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t096",
+          "label": "Small text · Graphic design · sample testimonial",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t097",
+          "label": "Text · “",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t098",
+          "label": "Text · 01 / 03",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t099",
+          "label": "Button · ←",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t100",
+          "label": "Button · Ⅱ",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t101",
+          "label": "Button · →",
+          "section": "Good work starts with good connections."
+        },
+        {
+          "id": "t102",
+          "label": "Paragraph · A FEW BRANDS IN MY CREATIVE UNIVERSE",
+          "section": "Page content"
+        },
+        {
+          "id": "t103",
+          "label": "Text · / ILLUSTRATIVE NAMES",
+          "section": "Page content"
+        },
+        {
+          "id": "t104",
+          "label": "Text · ōlea",
+          "section": "Page content"
+        },
+        {
+          "id": "t105",
+          "label": "Text · orbit®",
+          "section": "Page content"
+        },
+        {
+          "id": "t106",
+          "label": "Text · FORM & FEELING",
+          "section": "Page content"
+        },
+        {
+          "id": "t107",
+          "label": "Text · VOLTA",
+          "section": "Page content"
+        },
+        {
+          "id": "t108",
+          "label": "Text · northstar ✦",
+          "section": "Page content"
+        },
+        {
+          "id": "t109",
+          "label": "Text · studio / lune",
+          "section": "Page content"
+        },
+        {
+          "id": "t110",
+          "label": "Text · ōlea",
+          "section": "Page content"
+        },
+        {
+          "id": "t111",
+          "label": "Text · orbit®",
+          "section": "Page content"
+        },
+        {
+          "id": "t112",
+          "label": "Text · FORM & FEELING",
+          "section": "Page content"
+        },
+        {
+          "id": "t113",
+          "label": "Text · VOLTA",
+          "section": "Page content"
+        },
+        {
+          "id": "t114",
+          "label": "Text · northstar ✦",
+          "section": "Page content"
+        },
+        {
+          "id": "t115",
+          "label": "Text · studio / lune",
+          "section": "Page content"
+        },
+        {
+          "id": "t116",
+          "label": "Text · 04 /",
+          "section": "Have a vision? Let’s make it real."
+        },
+        {
+          "id": "t117",
+          "label": "Paragraph · YOUR NEXT BIG THING STARTS HERE",
+          "section": "Have a vision? Let’s make it real."
+        },
+        {
+          "id": "t118",
+          "label": "Section heading · Have a vision?",
+          "section": "Have a vision? Let’s make it real."
+        },
+        {
+          "id": "t119",
+          "label": "Section heading · Let’s make it",
+          "section": "Have a vision? Let’s make it real."
+        },
+        {
+          "id": "t120",
+          "label": "Text · real.",
+          "section": "Have a vision? Let’s make it  real."
+        },
+        {
+          "id": "t121",
+          "label": "Paragraph · A brand to launch. A website to build.",
+          "section": "Have a vision? Let’s make it  real."
+        },
+        {
+          "id": "t122",
+          "label": "Paragraph · Something extraordinary to create together.",
+          "section": "Have a vision? Let’s make it  real."
+        },
+        {
+          "id": "t123",
+          "label": "Link label · Let’s Start a Conversation",
+          "section": "Have a vision? Let’s make it  real."
+        },
+        {
+          "id": "t124",
+          "label": "Text · Have a project in mind? Reach me at",
+          "section": "Have a vision? Let’s make it  real."
+        },
+        {
+          "id": "t125",
+          "label": "Text · .",
+          "section": "Have a vision? Let’s make it  real."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "texts": {
+        "t001": "Contact — Washma Amjad",
+        "t002": "Contact Washma Amjad about graphic design, web development, video editing, or channel management. Email muskanamjad671@gmail.com to start a conversation.",
+        "t003": "HOME ",
+        "t004": "/ CONTACT",
+        "t005": "GOOD THINGS START WITH A CONVERSATION",
+        "t006": "Your next idea.",
+        "t007": "Our next conversation.",
+        "t008": "hello",
+        "t009": "LET’S MAKE SOMETHING MEANINGFUL.",
+        "t010": "Whether you have a detailed brief or a spark of an idea,",
+        "t011": "I’d love to hear what you’re imagining.",
+        "t012": "01 /",
+        "t013": " LET’S CONNECT",
+        "t014": "A little hello.",
+        "t015": "A world of possibilities.",
+        "t016": "Tell me about your project, what you’re working toward, and where you could use a creative hand.",
+        "t017": "Drop me an email",
+        "t018": "For project ideas, collaborations, and questions.",
+        "t019": "Find me around the internet",
+        "t020": "Find me on Fiverr and TikTok. More ways to connect soon.",
+        "t021": "✦",
+        "t022": "Thoughtful design starts",
+        "t023": "with understanding your story.",
+        "t024": "02 /",
+        "t025": " TELL ME WHAT’S ON YOUR MIND",
+        "t026": "Let’s bring it to life.",
+        "t027": "Reach out for editing or channel management projects — or let’s talk graphic design and web development.",
+        "t028": "Your name ",
+        "t029": "*",
+        "t030": "Email address ",
+        "t031": "*",
+        "t032": "Project type ",
+        "t033": "*",
+        "t034": "Select your project",
+        "t039": "YouTube Video Editing",
+        "t040": "Short-Form Reels Editing",
+        "t041": "Color Grading & Sound Design",
+        "t042": "Full Channel Management",
+        "t043": "Something Else",
+        "t044": "Budget ",
+        "t045": "(optional · USD)",
+        "t046": "Let’s discuss it",
+        "t047": "Under $100",
+        "t048": "$100–$300",
+        "t049": "$300–$600",
+        "t050": "$600–$1,000",
+        "t051": "$1,000+",
+        "t052": "Tell me about your project ",
+        "t053": "*",
+        "t054": "A few details help me understand your vision.",
+        "t055": "0 / 3000",
+        "t056": "Prepare Email Draft ",
+        "t057": "* Required fields",
+        "t058": "No pressure. Just a creative starting point.",
+        "t059": "Prepare your enquiry here, then open the email draft and press Send in your email app. It does not send or store your message on this website.",
+        "t060": "Your email draft is ready.",
+        "t061": "Open the draft in your email app, then review and send it. You can also copy your enquiry below.",
+        "t062": "Open Email Draft",
+        "t063": "Copy Enquiry",
+        "t064": "View your prepared message",
+        "t065": "✦",
+        "t066": "SOME IDEAS JUST NEED THE RIGHT COLLABORATION.",
+        "t067": "Let’s make yours",
+        "t068": "the next great story.",
+        "t069": "A Little Inspiration First ",
+        "t070": "What should I call you?",
+        "t071": "you@example.com",
+        "t072": "Your idea, goals, deliverables, timeline… I’m all ears."
+      },
+      "fields": [
+        {
+          "id": "t001",
+          "label": "Browser page title",
+          "section": "Page settings"
+        },
+        {
+          "id": "t002",
+          "label": "Search description",
+          "section": "Page settings"
+        },
+        {
+          "id": "t003",
+          "label": "Link label · HOME",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t004",
+          "label": "Text · / CONTACT",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t005",
+          "label": "Text · GOOD THINGS START WITH A CONVERSATION",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t006",
+          "label": "Main heading · Your next idea.",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t007",
+          "label": "Text · Our next conversation.",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t008",
+          "label": "Text · hello",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t009",
+          "label": "Small text · LET’S MAKE SOMETHING MEANINGFUL.",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t010",
+          "label": "Paragraph · Whether you have a detailed brief or a spark of an idea,",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t011",
+          "label": "Paragraph · I’d love to hear what you’re imagining.",
+          "section": "Your next idea. Our next conversation."
+        },
+        {
+          "id": "t012",
+          "label": "Text · 01 /",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t013",
+          "label": "Paragraph · LET’S CONNECT",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t014",
+          "label": "Section heading · A little hello.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t015",
+          "label": "Text · A world of possibilities.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t016",
+          "label": "Paragraph · Tell me about your project, what you’re working toward, and where",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t017",
+          "label": "Card heading · Drop me an email",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t018",
+          "label": "Paragraph · For project ideas, collaborations, and questions.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t019",
+          "label": "Card heading · Find me around the internet",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t020",
+          "label": "Paragraph · Social profiles can be updated from the Admin Panel.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t021",
+          "label": "Text · ✦",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t022",
+          "label": "Paragraph · Thoughtful design starts",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t023",
+          "label": "Paragraph · with understanding your story.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t024",
+          "label": "Text · 02 /",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t025",
+          "label": "Paragraph · TELL ME WHAT’S ON YOUR MIND",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t026",
+          "label": "Section heading · Let’s bring it to life.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t027",
+          "label": "Paragraph · Reach out for editing or channel management projects — or let’s t",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t028",
+          "label": "Form label · Your name",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t029",
+          "label": "Text · *",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t030",
+          "label": "Form label · Email address",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t031",
+          "label": "Text · *",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t032",
+          "label": "Form label · Project type",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t033",
+          "label": "Text · *",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t034",
+          "label": "Dropdown option · Select your project",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t039",
+          "label": "Dropdown option · YouTube Video Editing",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t040",
+          "label": "Dropdown option · Short-Form Reels Editing",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t041",
+          "label": "Dropdown option · Color Grading & Sound Design",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t042",
+          "label": "Dropdown option · Full Channel Management",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t043",
+          "label": "Dropdown option · Something Else",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t044",
+          "label": "Form label · Budget",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t045",
+          "label": "Small text · (optional · USD)",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t046",
+          "label": "Dropdown option · Let’s discuss it",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t047",
+          "label": "Dropdown option · Under $100",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t048",
+          "label": "Dropdown option · $100–$300",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t049",
+          "label": "Dropdown option · $300–$600",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t050",
+          "label": "Dropdown option · $600–$1,000",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t051",
+          "label": "Dropdown option · $1,000+",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t052",
+          "label": "Form label · Tell me about your project",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t053",
+          "label": "Text · *",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t054",
+          "label": "Text · A few details help me understand your vision.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t055",
+          "label": "Text · 0 / 3000",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t056",
+          "label": "Button · Prepare Email Draft",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t057",
+          "label": "Paragraph · * Required fields",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t058",
+          "label": "Paragraph · No pressure. Just a creative starting point.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t059",
+          "label": "Paragraph · Prepare your enquiry here, then open the email draft and press Se",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t060",
+          "label": "Card heading · Your email draft is ready.",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t061",
+          "label": "Paragraph · Open the draft in your email app, then review and send it. You ca",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t062",
+          "label": "Link label · Open Email Draft",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t063",
+          "label": "Button · Copy Enquiry",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t064",
+          "label": "Text · View your prepared message",
+          "section": "A little hello. A world of possibilities."
+        },
+        {
+          "id": "t065",
+          "label": "Text · ✦",
+          "section": "Let’s make yours the next great story."
+        },
+        {
+          "id": "t066",
+          "label": "Paragraph · SOME IDEAS JUST NEED THE RIGHT COLLABORATION.",
+          "section": "Let’s make yours the next great story."
+        },
+        {
+          "id": "t067",
+          "label": "Section heading · Let’s make yours",
+          "section": "Let’s make yours the next great story."
+        },
+        {
+          "id": "t068",
+          "label": "Text · the next great story.",
+          "section": "Let’s make yours the next great story."
+        },
+        {
+          "id": "t069",
+          "label": "Link label · A Little Inspiration First",
+          "section": "Let’s make yours the next great story."
+        },
+        {
+          "id": "t070",
+          "label": "Input placeholder · What should I call you?",
+          "section": "Form placeholders"
+        },
+        {
+          "id": "t071",
+          "label": "Input placeholder · you@example.com",
+          "section": "Form placeholders"
+        },
+        {
+          "id": "t072",
+          "label": "Input placeholder · Your idea, goals, deliverables, timeline… I’m all ears.",
+          "section": "Form placeholders"
+        }
+      ]
+    }
+  },
+  "media": {
+    "profile": {
+      "id": "profile",
+      "name": "Profile photo · Home and About",
+      "url": "assets/portrait.png",
+      "alt": "Fictional professional portrait placeholder for Washma Amjad"
+    },
+    "project-1": {
+      "id": "project-1",
+      "name": "The art of slowing down · thumbnail",
+      "url": "assets/portfolio/project-01.svg",
+      "alt": "Illustrative the art of slowing down thumbnail"
+    },
+    "project-2": {
+      "id": "project-2",
+      "name": "Beyond the city · thumbnail",
+      "url": "assets/portfolio/project-02.svg",
+      "alt": "Illustrative beyond the city thumbnail"
+    },
+    "project-3": {
+      "id": "project-3",
+      "name": "Inside the creative process · thumbnail",
+      "url": "assets/portfolio/project-03.svg",
+      "alt": "Illustrative inside the creative process thumbnail"
+    },
+    "project-4": {
+      "id": "project-4",
+      "name": "Somewhere, off the map · thumbnail",
+      "url": "assets/portfolio/project-04.svg",
+      "alt": "Illustrative somewhere, off the map thumbnail"
+    },
+    "project-5": {
+      "id": "project-5",
+      "name": "Everyday, elevated · thumbnail",
+      "url": "assets/portfolio/project-05.svg",
+      "alt": "Illustrative everyday, elevated thumbnail"
+    },
+    "project-6": {
+      "id": "project-6",
+      "name": "A moment in motion · thumbnail",
+      "url": "assets/portfolio/project-06.svg",
+      "alt": "Illustrative a moment in motion thumbnail"
+    },
+    "project-7": {
+      "id": "project-7",
+      "name": "Made to stand out · thumbnail",
+      "url": "assets/portfolio/project-07.svg",
+      "alt": "Illustrative made to stand out thumbnail"
+    },
+    "project-8": {
+      "id": "project-8",
+      "name": "The little details · thumbnail",
+      "url": "assets/portfolio/project-08.svg",
+      "alt": "Illustrative the little details thumbnail"
+    },
+    "project-9": {
+      "id": "project-9",
+      "name": "Golden hour, reimagined · thumbnail",
+      "url": "assets/portfolio/project-09.svg",
+      "alt": "Illustrative golden hour, reimagined thumbnail"
+    },
+    "project-10": {
+      "id": "project-10",
+      "name": "After dark · thumbnail",
+      "url": "assets/portfolio/project-10.svg",
+      "alt": "Illustrative after dark thumbnail"
+    },
+    "project-11": {
+      "id": "project-11",
+      "name": "The sound of stillness · thumbnail",
+      "url": "assets/portfolio/project-11.svg",
+      "alt": "Illustrative the sound of stillness thumbnail"
+    },
+    "project-12": {
+      "id": "project-12",
+      "name": "A different kind of mood · thumbnail",
+      "url": "assets/portfolio/project-12.svg",
+      "alt": "Illustrative a different kind of mood thumbnail"
+    },
+    "featured-1": {
+      "id": "featured-1",
+      "name": "Olea — rooted in simplicity · Home featured image",
+      "url": "assets/featured-1.png",
+      "alt": "Olea — rooted in simplicity sample concept"
+    },
+    "featured-2": {
+      "id": "featured-2",
+      "name": "Orbit — a different perspective · Home featured image",
+      "url": "assets/featured-2.png",
+      "alt": "Orbit — a different perspective sample concept"
+    },
+    "featured-3": {
+      "id": "featured-3",
+      "name": "Form & Feeling — creative culture · Home featured image",
+      "url": "assets/featured-3.png",
+      "alt": "Form & Feeling — creative culture sample concept"
+    },
+    "featured-4": {
+      "id": "featured-4",
+      "name": "Volta — a fresh kind of energy · Home featured image",
+      "url": "assets/featured-4.png",
+      "alt": "Volta — a fresh kind of energy sample concept"
+    }
+  },
+  "services": [
+    {
+      "id": "s1",
+      "title": "Brand Identity Design",
+      "kicker": "START WITH A STRONG IDENTITY",
+      "description": "A visual identity that feels unmistakably you. Distinctive logos, thoughtful color palettes, and typography that give your brand a consistent voice.",
+      "features": [
+        "Logo & visual direction",
+        "Color & typography system",
+        "Brand style essentials"
+      ],
+      "price": "Custom quote",
+      "priceLabel": "PROJECT-BASED PRICING",
+      "icon": "identity"
+    },
+    {
+      "id": "s2",
+      "title": "Graphic & Social Design",
+      "kicker": "MAKE EVERY IMPRESSION COUNT",
+      "description": "Scroll-stopping visuals with a clear message. Cohesive social graphics, digital creatives, and print layouts that bring your ideas into focus.",
+      "features": [
+        "Social media creatives",
+        "Digital campaign graphics",
+        "Print & marketing layouts"
+      ],
+      "price": "Custom quote",
+      "priceLabel": "PROJECT-BASED PRICING",
+      "icon": "layout"
+    },
+    {
+      "id": "s3",
+      "title": "Web Design & Development",
+      "kicker": "FROM FIRST IDEA TO FINAL PIXEL",
+      "description": "A considered design, beautifully brought to life. Responsive websites that combine a strong visual identity with clear navigation and thoughtful interactions.",
+      "features": [
+        "Responsive page layouts",
+        "Custom front-end development",
+        "Purposeful motion & interactions"
+      ],
+      "price": "Custom quote",
+      "priceLabel": "PROJECT-BASED PRICING",
+      "icon": "code"
+    },
+    {
+      "id": "s4",
+      "title": "Website Redesign & Refresh",
+      "kicker": "GIVE YOUR WEBSITE A NEW CHAPTER",
+      "description": "A fresh perspective for your existing website. Refined layouts, stronger visual consistency, and a smoother experience across desktop and mobile.",
+      "features": [
+        "Visual & layout refresh",
+        "Mobile experience refinement",
+        "Navigation & interaction updates"
+      ],
+      "price": "Custom quote",
+      "priceLabel": "PROJECT-BASED PRICING",
+      "icon": "refresh"
+    }
+  ],
+  "awards": [
+    {
+      "id": "a1",
+      "year": "2026",
+      "title": "Visual Storytelling Award",
+      "issuer": "Creative Storytelling Showcase",
+      "category": "Brand identity & narrative design",
+      "description": "A sample recognition for bringing a brand’s personality to life through a thoughtful visual story.",
+      "meaning": "A reminder that strong design can do more than look good — it can make an idea feel meaningful.",
+      "sample": true,
+      "icon": "trophy"
+    },
+    {
+      "id": "a2",
+      "year": "2026",
+      "title": "Digital Experience Distinction",
+      "issuer": "Independent Web Design Review",
+      "category": "Web design & development",
+      "description": "A sample recognition for a considered website experience, pairing clear navigation with expressive design.",
+      "meaning": "Celebrating the balance between how a website looks, how it works, and how it feels to use.",
+      "sample": true,
+      "icon": "medal"
+    },
+    {
+      "id": "a3",
+      "year": "2025",
+      "title": "Emerging Creative Recognition",
+      "issuer": "New Perspectives Design Forum",
+      "category": "Graphic design & creative growth",
+      "description": "A sample achievement celebrating curiosity, experimentation, and the development of a distinctive creative voice.",
+      "meaning": "A place to recognize the small steps and thoughtful experiments that build a creative practice.",
+      "sample": true,
+      "icon": "diamond"
+    },
+    {
+      "id": "a4",
+      "year": "2025",
+      "title": "Design Craft Commendation",
+      "issuer": "Visual Craft Collective",
+      "category": "Composition, color & detail",
+      "description": "A sample commendation for attention to composition, purposeful color, and a cohesive finish.",
+      "meaning": "Because the quiet details are often what make a piece of work feel complete.",
+      "sample": true,
+      "icon": "check"
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "The art of slowing down",
+      "description": "Story-led editing, thoughtful pacing, and warm visual storytelling.",
+      "detail": "A lifestyle film concept shaped with a strong opening, considered scene transitions, natural sound beds, and a warm, cohesive finish.",
+      "category": "long",
+      "media": "project-1"
+    },
+    {
+      "id": "p2",
+      "title": "Beyond the city",
+      "description": "A documentary-style edit built around narrative and atmosphere.",
+      "detail": "A documentary concept exploring city life through purposeful sequencing, interview pacing, ambient sound, and subtle motion typography.",
+      "category": "long",
+      "media": "project-2"
+    },
+    {
+      "id": "p3",
+      "title": "Inside the creative process",
+      "description": "A clean talking-head edit with engaging supporting visuals.",
+      "detail": "An educational video concept with a concise narrative, contextual B-roll, clear chapter structure, and restrained graphic accents.",
+      "category": "long",
+      "media": "project-3"
+    },
+    {
+      "id": "p4",
+      "title": "Somewhere, off the map",
+      "description": "Cinematic travel editing with a sense of place and discovery.",
+      "detail": "A travel film concept combining scenic sequences, rhythm-driven cuts, atmosphere, and an intentional beginning-to-end story arc.",
+      "category": "long",
+      "media": "project-4"
+    },
+    {
+      "id": "p5",
+      "title": "Everyday, elevated",
+      "description": "A product reel with rhythmic cuts and polished text treatments.",
+      "detail": "A vertical product reel concept using tight pacing, tactile detail shots, beat-matched cuts, and concise on-screen messaging.",
+      "category": "short",
+      "media": "project-5"
+    },
+    {
+      "id": "p6",
+      "title": "A moment in motion",
+      "description": "A travel reel shaped through quick transitions and visual rhythm.",
+      "detail": "A short travel concept built around a memorable hook, energetic scene selection, seamless match cuts, and a satisfying loop.",
+      "category": "short",
+      "media": "project-6"
+    },
+    {
+      "id": "p7",
+      "title": "Made to stand out",
+      "description": "An expressive social edit with punchy captions and bold pacing.",
+      "detail": "A creator reel concept pairing readable captions, purposeful punch-ins, sound accents, and a clean final call to action.",
+      "category": "short",
+      "media": "project-7"
+    },
+    {
+      "id": "p8",
+      "title": "The little details",
+      "description": "A lifestyle reel with soft transitions and a refined finish.",
+      "detail": "A lifestyle short concept focusing on close-up details, gentle speed changes, soft transitions, and warm, consistent color.",
+      "category": "short",
+      "media": "project-8"
+    },
+    {
+      "id": "p9",
+      "title": "Golden hour, reimagined",
+      "description": "Warm highlight shaping and balanced, cinematic skin tones.",
+      "detail": "A color concept exploring warm highlights, controlled contrast, natural skin-tone separation, and a gentle film-inspired finish. The placeholder image is an illustrative mood board.",
+      "category": "color",
+      "media": "project-9"
+    },
+    {
+      "id": "p10",
+      "title": "After dark",
+      "description": "Cool shadows and rich contrast for an atmospheric night look.",
+      "detail": "A night-grade concept with a cool shadow palette, intentional color separation, balanced highlights, and atmospheric sound layers.",
+      "category": "color",
+      "media": "project-10"
+    },
+    {
+      "id": "p11",
+      "title": "The sound of stillness",
+      "description": "Layered ambience and detailed sound design that support the story.",
+      "detail": "A sound design concept combining environmental ambience, carefully placed Foley, smooth dialogue beds, and dynamic balance. This image is a visual placeholder, not playable audio.",
+      "category": "color",
+      "media": "project-11"
+    },
+    {
+      "id": "p12",
+      "title": "A different kind of mood",
+      "description": "A cohesive color treatment with a carefully balanced sound mix.",
+      "detail": "A finishing concept unifying shot-to-shot color, selective saturation, music transitions, and a detailed, comfortable sound mix.",
+      "category": "color",
+      "media": "project-12"
+    }
+  ],
+  "featured": [
+    {
+      "id": "f1",
+      "title": "Olea — rooted in simplicity",
+      "category": "BRAND IDENTITY · CONCEPT",
+      "description": "A botanical skincare identity concept with an earthy palette, expressive wordmark, and understated packaging.",
+      "media": "featured-1"
+    },
+    {
+      "id": "f2",
+      "title": "Orbit — a different perspective",
+      "category": "WEB DESIGN · CONCEPT",
+      "description": "A digital studio website concept with confident typography, a cool electric palette, and a clear hierarchy.",
+      "media": "featured-2"
+    },
+    {
+      "id": "f3",
+      "title": "Form & Feeling — creative culture",
+      "category": "EDITORIAL DESIGN · CONCEPT",
+      "description": "An editorial concept exploring expressive typography and sculptural imagery.",
+      "media": "featured-3"
+    },
+    {
+      "id": "f4",
+      "title": "Volta — a fresh kind of energy",
+      "category": "PACKAGING & IDENTITY · CONCEPT",
+      "description": "A beverage packaging concept with a punchy orange palette, oversized type, and a memorable shelf presence.",
+      "media": "featured-4"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{% from 'components/icons.html' import icon %}
+<span class="contact-method-icon blue">{{ icon('email') }}</span><div><h3>Prefer WhatsApp?</h3>{% if settings.whatsapp %}<p>{{ settings.whatsapp }}</p><a class="small-contact-link" href="https://wa.me/{{ settings.whatsapp[1:] }}" target="_blank" rel="noopener noreferrer">Chat on WhatsApp {{ icon('arrow') }}</a>{% else %}<p>My WhatsApp number is available on request.</p><a class="small-contact-link" href="mailto:{{ settings.email }}?subject=WhatsApp%20contact%20request">Request my number {{ icon('arrow') }}</a>{% endif %}</div>
